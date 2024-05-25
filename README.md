@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=hongs0312&fontAlign=60&fontAlignY=40&color=gradient)
+  ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=hongs0312&fontAlign=70&fontAlignY=40&color=gradient)
  
  <br/> 
 
