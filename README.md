@@ -2,9 +2,9 @@
 
 
 
-<div align="right">
+<div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=_4f599f&height=120&section=header&text=hongs0312&fontSize=30)
+  ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
  
  <br/> 
 
