@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=_#4F599F&height=100&section=header&text=hongs0312&fontSize=30)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=_4f599f&height=100&section=header&text=hongs0312&fontSize=30)
  
  <br/> 
 
